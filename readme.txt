@@ -1,5 +1,4 @@
 Welcome to MyProject
 
-Author: Shakespeer Kumar
-
+Author: Shakespeer Kumar Gera
 Twitter: @myTwitterID
