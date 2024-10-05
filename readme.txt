@@ -1,5 +1,5 @@
 Welcome to MyProject
 
-Author: Shakespeer
+Author: Shakespeer Kumar
 
 Twitter: @myTwitterID
